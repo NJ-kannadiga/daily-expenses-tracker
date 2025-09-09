@@ -1,10 +1,17 @@
-# React + Vite
+Here’s a clean **markdown version** of the file structure you can paste directly into your `README.md` on GitHub 👇
 
-# Install Vite 5 (latest minor in that line)
-npm create vite@5 daily-expenses-tracker
+```markdown
+# Daily Expenses Tracker (React + Vite)
 
+This project is a **React + Vite** based Daily Expenses Tracker with support for **light/dark themes**, **Context API or Redux Toolkit** for state management, and modular file organization.  
 
-daily-expenses-tracker/ 
+---
+
+## 📂 Project Structure
+
+```
+
+daily-expenses-tracker/
 │── public/                         # Static files (favicon, manifest, logos)
 │
 │── src/
@@ -59,3 +66,14 @@ daily-expenses-tracker/
 │── package.json
 │── vite.config.js
 │── README.md
+
+```
+
+---
+
+✅ Supports **both Context API & Redux Toolkit** (you can choose one or use both).  
+✅ Includes **light/dark mode** via ThemeContext or themeSlice.  
+✅ Structured for scalability with modular folders.  
+```
+
+Would you like me to also include a **setup section** (installation, run commands, tech stack) in this markdown so your GitHub repo looks professional?
