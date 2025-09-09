@@ -4,7 +4,7 @@
 npm create vite@5 daily-expenses-tracker
 
 
-daily-expenses-tracker/
+daily-expenses-tracker/ 
 │── public/                         # Static files (favicon, manifest, logos)
 │
 │── src/
